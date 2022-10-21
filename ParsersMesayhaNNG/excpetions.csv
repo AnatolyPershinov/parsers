@@ -1,0 +1,4 @@
+file,code,error
+C:\Users\Anatoly\Repos\Parsers\ParsersMesayhaNNG\procces_data_meso.py, E0110, Abstract class 'ExcelWriter' with abstract methods instantiated (abstract-class-instantiated)
+C:\Users\Anatoly\Repos\Parsers\ParsersMesayhaNNG\procces_data_meso.py, E0110, Abstract class 'ExcelWriter' with abstract methods instantiated (abstract-class-instantiated)
+C:\Users\Anatoly\Repos\Parsers\ParsersMesayhaNNG\procces_data_nng.py, E0110, Abstract class 'ExcelWriter' with abstract methods instantiated (abstract-class-instantiated)

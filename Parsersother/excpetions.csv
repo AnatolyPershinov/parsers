@@ -1,0 +1,3 @@
+file,code,error
+C:\Users\Anatoly\Repos\Parsers\Parsersother\py\Gazprom_data_parser.py, E0001, Parsing failed
+C:\Users\Anatoly\Repos\Parsers\Parsersother\py\Parser.py, E1123, Unexpected keyword argument 'allow_none' in function call (unexpected-keyword-arg)
