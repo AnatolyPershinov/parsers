@@ -3,7 +3,7 @@
 Заполняет exceptions.csv
 '''
 
-from inspect import modulesbyfile
+
 import os
 import csv
 import re
@@ -11,7 +11,7 @@ import re
 from pylint import epylint
 
 
-folders = [os.getcwd() + d for d in ["\\Parsers20152017", "\\ParsersMesayhaNNG", "\\Parsersother"]]
+folders = [os.getcwd() + d for d in ["\\Parsers20162017"]]
 path = os.getcwd()
 
 
@@ -78,6 +78,6 @@ def save_to_csv(dir_name, filename, array):
 
 try:
     for directory in folders:
-        save_to_csv(directory, "excpetions.csv", check_files(directory))
+        save_to_csv(directory, "excpetions.csv", check_files(directory, True))
 except Exception as e:
     print(e)
