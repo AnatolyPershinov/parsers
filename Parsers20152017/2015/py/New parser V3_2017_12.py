@@ -1571,19 +1571,19 @@ for full_path in tqdm_notebook(all_paths):
         #Если формат не подходит - нужно добавить файл в необработанные для правильного подсчета обработанных файлов
         not_preprocessed_file.append(filename)
         
-not_preprocessed_file
+# not_preprocessed_file
 
 
 # In[ ]:
 
 
-not_preprocessed_file
+# not_preprocessed_file
 
 
 # In[ ]:
 
 
-len(not_preprocessed_file)+159
+# len(not_preprocessed_file)+159
 
 
 # In[ ]:
